@@ -2,6 +2,6 @@
 
 A new Flutter project.
 
-## Screenshots
+## Screenshot
 
-![Screenshot](flutter_application_1/lib/assets/Screenshot_1718261809.png)
+![Screenshot](assets/Screenshot_1718261809.png)
