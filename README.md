@@ -1,4 +1,4 @@
-# Weather Forecast
+# WeatherForecast
 
 A simple weather forecast app built with Flutter. Get current weather updates and forecasts easily.
 # Screenshot
